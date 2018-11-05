@@ -1,6 +1,7 @@
-9fd92695a461779a6d467264458f5479 *DESCRIPTION
-bd45ae07217f29a678847699d240c54c *LICENSE
+4cd4a1fbc5b55da70ba26a164e9a270f *DESCRIPTION
+dc5c7ab73d6a2dfc5614fde2052bce96 *LICENSE
 379eae61cfd30534e0343ca77cc1c036 *NAMESPACE
+5a61fa93adaace96830b08e80162799b *NEWS.md
 9db4fb3c20f15ef8ea65f00b4415f74f *R/AST.R
 f19af7a58b51125ca7216f155ee421d5 *R/Altitude.R
 3b33a352758b4a75b03c40eec3278570 *R/Azimuth.R
@@ -22,6 +23,7 @@ bf7338c022492751db4f51fa847e2c68 *R/SolarConstant.R
 e294a424fe53f30c3ed4d273cb95fbf1 *R/Sunrise.R
 37b1fc3a267c57c4fa3a9b71ebede08b *R/Sunset.R
 d866eb08671ea23455b4e070c2aaf5ca *R/Transmittance.R
+43b4972e55678da500782c9452bb407d *README.md
 e8af3b1305e25d72f46976dcdd15b473 *inst/CITATION
 0fbdedf5b97d7a50988835839a4542dc *man/AST.Rd
 0d0216701145093709132fbbae88aa7e *man/Altitude.Rd
@@ -44,3 +46,5 @@ b43fc066b03bfe1e9533aecfe1641f96 *man/SolarConstant.Rd
 b438f2d5a6ac48a08d2ab81a886292ee *man/Sunrise.Rd
 9c516f8d06799f6c1ba7aa054b23ad3e *man/Sunset.Rd
 2a630f66e687b7205bcfcb6290f9c7a4 *man/Transmittance.Rd
+b7b2bb2353aeceef9b43362bb26e4004 *tests/testthat.R
+bf1337ddafe7d8193f5cc975016cf8f0 *tests/testthat/testall.R
